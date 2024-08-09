@@ -1,0 +1,18 @@
+ *Progress(module trailer)-100,0,20
+ *Progress(module trailer)-100,20,0
+ *Progress(module trailer)-100,0,20
+ *Do not progress-module retriver-80,20,20
+ *Do not progress-module retriver-60,0,60
+ *Do not progress-module retriver-40,80,0
+ *Do not progress-module retriver-20,40,60
+ *Do not progress-module retriver-0,60,60
+ *Exclude-40,0,80
+ *Exclude-20,0,100
+ *Progress-120,0,0
+ *Do not progress-module retriver-60,60,0
+ *Exclude-40,0,80
+ *Exclude-40,0,80
+ *Progress-120,0,0
+ *Progress(module trailer)-100,20,0
+ *Exclude-40,0,80
+ *Exclude-40,0,80
